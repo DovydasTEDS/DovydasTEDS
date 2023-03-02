@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning on how to use css well, or trying to make my minecraft modpack better
 - 💞️ I’m not looking to collaborate on anything, unless its cool and little action
 - 📫 Don't try reach me, but you can on Discord: DovydasTEDS#0772
+\
+\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DovydasTEDS&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 DovydasTEDS/DovydasTEDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
