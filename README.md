@@ -5,7 +5,7 @@
 - 📫 Don't try reach me, but you can on Discord: DovydasTEDS#0772
 \
 \
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DovydasTEDS&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DovydasTEDS&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
